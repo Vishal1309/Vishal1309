@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Vishal Soni</h1>
 <h3 align="center">I am an undergraduate student in the discipline of Computer Science and Engineering @ IIT Gandhinagar'19. I am passionate about DSA, development, and ML.</h3>
 
