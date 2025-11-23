@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vishal Soni</h1>
-<h3 align="center">I am an undergraduate student in the discipline of Computer Science and Engineering @ IIT Gandhinagar'19. I am passionate about DSA, development, and ML.</h3>
+<h3 align="center">I am a software engineer at Oracle, with a BTech in Computer Science at IIT Gandhinagar'23. I have a passion for Quantitative Research and algorithmic trading.</h3>
 
-- 🌱 I’m currently learning **Computer Networks and Machine Learning**
+- 🌱 I’m currently learning **Stochastic Processes**
 
-- 💬 Ask me about **Problem Solving and DSA**
+- 💬 Ask me about **Math, Algorithm Design and Problem Solving**
 
 - 📫 How to reach me **jayesh.s@iitgn.ac.in**
 
