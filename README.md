@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishal Soni</h1>
-<h3 align="center">Incoming UC Berkeley MFE '28 · Quantitative research · Quantitative Research Consultant, WorldQuant (Gold) · Ex-Oracle · IIT Gandhinagar CS '23</h3>
+<h3 align="center">Incoming UC Berkeley MFE '28 · Volatility research · Quantitative Research Consultant, WorldQuant (Gold) · Ex-Oracle · IIT Gandhinagar CS '23</h3>
 
 - 🔬 Currently building **systematic volatility research, agentic LLM alpha pipelines, and WorldQuant alpha factors**
 
