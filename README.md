@@ -21,6 +21,20 @@
 <a href="https://twitter.com/vishal1309" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Work Experience:</h3>
+
+<p>
+<img src="assets/logos/worldquant.png" alt="WorldQuant" height="24" align="absmiddle"/> &nbsp; <b>Quantitative Research Consultant</b>, WorldQuant &nbsp;·&nbsp; <i>06/2026 – present</i>
+</p>
+
+<p>
+<img src="assets/logos/oracle.png" alt="Oracle" height="24" align="absmiddle"/> &nbsp; <b>Member of Technical Staff II</b>, Oracle Cloud Infrastructure &nbsp;·&nbsp; <i>07/2023 – 04/2026</i>
+</p>
+
+<p>
+<img src="assets/logos/mnm.png" alt="MNM Stock Broking" height="24" align="absmiddle"/> &nbsp; <b>Freelance Trading Algorithm Research Intern</b>, MNM Stock Broking &nbsp;·&nbsp; <i>05/2025 – 10/2025</i>
+</p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
