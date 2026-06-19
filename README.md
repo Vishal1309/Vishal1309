@@ -24,7 +24,7 @@
 <h3 align="left">Work Experience:</h3>
 
 <p>
-<img src="assets/logos/worldquant.png" alt="WorldQuant" height="24" align="absmiddle"/> &nbsp; <b>Quantitative Research Consultant</b>, WorldQuant &nbsp;·&nbsp; <i>06/2026 – present</i>
+<img src="assets/logos/worldquant.jpeg" alt="WorldQuant" height="24" align="absmiddle"/> &nbsp; <b>Quantitative Research Consultant</b>, WorldQuant &nbsp;·&nbsp; <i>06/2026 – present</i>
 </p>
 
 <p>
@@ -32,7 +32,7 @@
 </p>
 
 <p>
-<img src="assets/logos/mnm.png" alt="MNM Stock Broking" height="24" align="absmiddle"/> &nbsp; <b>Freelance Trading Algorithm Research Intern</b>, MNM Stock Broking &nbsp;·&nbsp; <i>05/2025 – 10/2025</i>
+<img src="assets/logos/mnm.jpeg" alt="MNM Stock Broking" height="24" align="absmiddle"/> &nbsp; <b>Freelance Trading Algorithm Research Intern</b>, MNM Stock Broking &nbsp;·&nbsp; <i>05/2025 – 10/2025</i>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
