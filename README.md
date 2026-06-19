@@ -28,6 +28,7 @@
 | <img src="assets/logos/worldquant.jpeg" alt="WorldQuant" height="28"/> | **Quantitative Research Consultant**, WorldQuant |
 | <img src="assets/logos/oracle.png" alt="Oracle" height="28"/> | **Member of Technical Staff II**, Oracle Cloud Infrastructure |
 | <img src="assets/logos/mnm.jpeg" alt="MNM Stock Broking" height="28"/> | **Freelance Trading Algorithm Research Intern**, MNM Stock Broking |
+| <img src="assets/logos/strand.png" alt="Strand Life Sciences" height="28"/> | **Software Intern, Research Informatics**, Strand Life Sciences |
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
